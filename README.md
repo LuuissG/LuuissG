@@ -1,9 +1,11 @@
 
-# Olá! 👋
+# Olá! Me chamo Luis Gustavo👋
 
 ## Sobre mim
-**Luis Gustavo**  
-22 anos  
-
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** - Facens  
+👨‍💻 Developer 
 
+## 💻 Linguagens
+- ☕ Java
+- 🐍 Python
+- 📊 SQL
