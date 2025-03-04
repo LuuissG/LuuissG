@@ -1,11 +1,11 @@
 
-# Olá! Me chamo Luis Gustavo👋
+# Hello! My name is Luis Gustavo 👋  
 
-## Sobre mim
-🎓 **Formado em Análise e Desenvolvimento de Sistemas** - Facens  
-👨‍💻 Developer 
+## About Me  
+🎓 **Graduated in Systems Analysis and Development** - Facens  
+👨‍💻 Developer  
 
-## 💻 Linguagens
-- ☕ Java
-- 🐍 Python
-- 📊 SQL
+## 💻 Languages  
+- ☕ Java  
+- 🐍 Python  
+- 📊 SQL  
