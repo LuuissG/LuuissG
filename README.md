@@ -3,7 +3,7 @@
 
 ## About Me  
 🎓 **Graduated in Systems Analysis and Development** - Facens  
-👨‍💻 Developer  
+👨‍💻 Full-Stack Developer  
 
 ## 💻 Languages  
 - ☕ Java  
