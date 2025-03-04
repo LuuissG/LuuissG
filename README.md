@@ -5,7 +5,7 @@
 🎓 **Graduated in Systems Analysis and Development** - Facens  
 👨‍💻 Full-Stack Developer  
 
-## 💻 Languages  
+## 💻 Languages & Technologies
 - ☕ Java  
 - 🐍 Python  
 - 📊 SQL  
